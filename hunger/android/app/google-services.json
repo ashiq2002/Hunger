@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1059729313593",
+    "project_id": "userauth-52d4d",
+    "storage_bucket": "userauth-52d4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059729313593:android:1690986639eeaa8fdd22e8",
+        "android_client_info": {
+          "package_name": "com.example.hunger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059729313593-6sfcg84vh524f7upsg98mc4qbb5j8buq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWuETmqosxAGBGrLzYI3FeIoblrVMIxkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059729313593-6sfcg84vh524f7upsg98mc4qbb5j8buq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1059729313593-239028a3trgi5nqek0tlk728l39lm53g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.userLogin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
